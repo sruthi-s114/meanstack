@@ -1,0 +1,11 @@
+div{
+    width: 50%;
+    height: 25%;
+    border: 2px solid red;
+    margin-left: 100px;
+    padding: 3%;
+    padding-left: 30%;
+}
+.second{
+    margin-top: 500px;
+}
