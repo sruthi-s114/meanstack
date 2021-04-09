@@ -1,8 +1,6 @@
 var num1=12;
 var num2=10;
 var num3=15;
-
-var largest;
  
 if((num1>num2) & (num1>num3)){
     console.log(num1+" is greater"); 
